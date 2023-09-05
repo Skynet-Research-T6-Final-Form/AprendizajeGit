@@ -22,12 +22,12 @@ git help <comandos>*
 
 #### Configura el email
 ```
-git config --global user.email elliotgaramendi@gmail.com
+git config --global user.email sthodeo@gmail.com
 ```
 
 #### Configura el usuario
 ```
-git config --global user.name elliotgaramendi
+git config --global user.name Skynet-Research-T6-Final-Form
 ```
 
 #### Lista la configuración del git
